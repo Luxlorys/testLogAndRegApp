@@ -12,13 +12,9 @@ Register activity
 
 ![image](https://user-images.githubusercontent.com/53920825/229122358-6e20b7a0-d717-4dc4-9f7c-4303cb440ebf.png)
 
-If user click on 'register' button and all data was checked user will be redirected to main activity
+If user click on 'register' button and all data was checked user will be redirected to main activity with next message
 
 ![image](https://user-images.githubusercontent.com/53920825/229122741-fd2db64d-7255-4f52-9b2f-f9e365bc03fe.png)
-
-Message that user was successufully written into database
-
-![image](https://user-images.githubusercontent.com/53920825/229122885-25bfcb82-15d4-4c13-a4fb-e1dec941f76b.png)
 
 If user enter wrong data app will say about it
 
