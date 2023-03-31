@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">testLogAndRegApp</string>
+    <string name="register">register</string>
+    <string name="log_in">log in</string>
 </resources>
